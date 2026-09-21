@@ -1,7 +1,7 @@
 # Examen Parcial - Sistema de Gestión de Cuentas Bancarias
 
 Aplicación de escritorio en **Java (Swing)** desarrollada como parte del examen del primer parcial para la gestión y cálculo de operaciones en cuentas bancarias (**Cuenta de Ahorro** y **Cuenta Corriente**).
-
+Calificacion Perfecta
 ---
 
 ## 📌 Características Principales
